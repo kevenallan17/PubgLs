@@ -1,0 +1,19 @@
+const mapas = [
+    {
+        "nome": "erangel",
+        "img": "mapa 1"
+     },
+    {
+        "nome": "miramar",
+        "img": "mapa 2"
+     },
+    {
+        "nome": "sanhok",
+        "img": "mapa 3"
+     },
+    {
+        "nome": "vikendi",
+        "img": "mapa 4"
+    }
+    
+]
